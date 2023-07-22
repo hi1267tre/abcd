@@ -1,0 +1,38 @@
+.container{
+    margin-top: 50px;
+}
+.row{
+    margin-top: 20px;
+}
+.bloko-columns-wrapper{
+    min-height: 60vh;
+    
+}
+.company_name{
+    color:rgb(126, 126, 126)
+}
+.vac-title{
+    font-size: 12pt;
+    color:rgb(57, 57, 194)
+}
+.vac-title:hover{
+    color:crimson;
+
+}
+.left-side{
+    border-left: 10px solid rgba(148, 143, 143, 0.301);
+    box-shadow: 0 0 5px rgba(0,0,0,0.5); /* Параметры тени */
+    border-radius: 1%;
+    height: 100%;
+    padding-left: 3px;
+    padding-bottom: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.left-side:hover{
+    box-shadow: 0 0 10px rgba(0,0,0,0.5); /* Параметры тени */
+}
+.nav{
+   
+}
